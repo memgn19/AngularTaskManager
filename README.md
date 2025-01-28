@@ -3,7 +3,7 @@
 This angular Task Manager App is a dynamic and responsive web application designed to help users efficiently organize and manage their daily tasks. Built entirely with Angular, the app leverages the framework's powerful features for component-based development, reactive programming, and seamless data handling.
 
 # Demo ☂️
-![Miniatura](AngularTaskManager/taskmanager/src/assets/miniatura.gif)
+![Miniatura](taskmanager/src/assets/miniatura.gif)
 
 
 # Features ✨
